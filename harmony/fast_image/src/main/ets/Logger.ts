@@ -37,4 +37,4 @@ class Logger {
   }
 }
 
-export default new Logger('RNFastImage', 0xFF00, true)
+export default new Logger('RNFastImage', 0xFF00, false)
